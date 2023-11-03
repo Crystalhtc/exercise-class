@@ -25,7 +25,6 @@ var bagTwo = ["book", "pen", "jacket"];
 var things = bagOne.concat(bagTwo);
 console.log(things); // [ 'phone', 'wallet', 'bottle', 'book', 'pen', 'jacket' ]
 
-
 /**
  * Question 6 - create a 2 dimensions array that is 2-by-4. Grab some values out of this array to create a sentence using concatenation.
  * 
