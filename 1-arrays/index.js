@@ -59,7 +59,6 @@ var bakingRecipies = ["brownies", "cookies", "cakes", "tarts"];
 bakingRecipies.pop();
 console.log(bakingRecipies); // [ 'brownies', 'cookies', 'cakes' ]
 
-
 /**
  * Question 4
  * 
